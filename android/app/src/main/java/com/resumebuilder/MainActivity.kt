@@ -1,5 +1,9 @@
 package com.resumebuilder
 
+import com.rnfs.RNFSPackage
+import com.christopherdro.htmltopdf.RNHTMLtoPDFPackage
+import com.christopherdro.RNPrint.RNPrintPackage
+
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.fabricEnabled
